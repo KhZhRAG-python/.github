@@ -40,7 +40,7 @@ _**На проверке: 5**_
 | task4-convex-polygons   |    ✔     |                                             —                                             |     —      |  [repo](https://github.com/KhZhRAG-python/task4-convex-polygons)  |
 | task5-Rn                |    ⬜     |                                             —                                             |     —      |        [repo](https://github.com/KhZhRAG-python/task5-Rn)         |
 | task6-quaternions       |    ⬜     |                                             —                                             |     —      |    [repo](https://github.com/KhZhRAG-python/task6-quaternions)    |
-| task7-calculator        |    ✔     |                                             —                                             |     —      |    [repo](https://github.com/KhZhRAG-python/task7-calculator)     |
+| task7-calculator        |    🏆     |                                             —                                             |     —      |    [repo](https://github.com/KhZhRAG-python/task7-calculator)     |
 
 ---
 
